@@ -27,4 +27,4 @@ To run this project, you will need:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Ticket-Categorization-Automation-using-RPA.git
+   git clone https://github.com/Varun2026/Ticket-Categorization-Automation-using-RPA-Robotic-Process-and-Automation-.git
